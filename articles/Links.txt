@@ -1,0 +1,11 @@
+KNN Classification:
+
+http://www.derekgreene.com/papers/greene07thesis.pdf
+https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a
+http://mlwiki.org/index.php/Vector_Space_Models
+https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
+
+K-Mean Clustering:
+
+https://www.edureka.co/blog/k-means-clustering/
+https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6
